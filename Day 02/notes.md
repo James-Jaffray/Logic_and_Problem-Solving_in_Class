@@ -1,20 +1,18 @@
-# Day 2
-Algorithmic thinking
+---
+aliases: [Logic and Problem-Solving - Day 02]
+tags: [logic-and-problem-solving, term1]
+course: "[[Logic and Problem-Solving]]"
+---
 
+# Logic and Problem-Solving — Day 2: Algorithmic Thinking
 
-Define 
-analyze
-plan
-test
+## Algorithmic Thinking
+Same core process as Day 1's [[Structured Problem-Solving Process]], reduced to four steps: define → analyze → plan → test.
 
+## [[Control Structures]]
+- Sequence
+- [[Conditionals]]
+- Loops
 
-
-Sequence 
-conditionals
-loops
-
-Conditionals
-
-- perform action based on criteria
-- if this do that
-
+### Conditionals
+- Perform an action based on a criteria: "if this, do that."
