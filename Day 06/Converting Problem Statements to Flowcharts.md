@@ -1,5 +1,6 @@
 # Day 6
 
+
 ## Topic
 
 ## Homework
