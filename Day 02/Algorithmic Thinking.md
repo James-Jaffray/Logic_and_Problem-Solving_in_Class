@@ -6,6 +6,8 @@ course: "[[Logic and Problem-Solving]]"
 
 # Logic and Problem-Solving — Day 2: Algorithmic Thinking
 
+**Today's focus:** think in algorithms and meet the three control structures.
+
 ## Algorithmic Thinking
 Same core process as Day 1's [[Structured Problem-Solving Process]], reduced to four steps: define → analyze → plan → test.
 
@@ -16,3 +18,9 @@ Same core process as Day 1's [[Structured Problem-Solving Process]], reduced to 
 
 ### Conditionals
 - Perform an action based on a criteria: "if this, do that."
+
+## To Know
+- Every program is built from sequence, conditionals, and loops
+
+## Reflection
+*What was the most surprising insight today?*

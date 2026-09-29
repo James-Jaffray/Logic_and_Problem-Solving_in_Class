@@ -6,6 +6,8 @@ course: "[[Logic and Problem-Solving]]"
 
 # Logic and Problem-Solving — Day 3: The IPO Model & Problem Statements
 
+**Today's focus:** frame problems as input → process → output and write clear problem statements.
+
 ## Structures (recap)
 - Sequence
 - Conditionals
@@ -45,3 +47,9 @@ A good problem statement is:
 - Analyze the problem
 - Identify inputs, outputs, and constraints
 - Use structured thinking to solve problems
+
+## To Know
+- A vague statement ("manage student records") has no defined inputs, outputs, or constraints
+
+## Reflection
+*What was the most surprising insight today?*

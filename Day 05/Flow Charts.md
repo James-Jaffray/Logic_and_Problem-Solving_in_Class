@@ -1,107 +1,45 @@
-# Day 5
+---
+aliases: [Logic and Problem-Solving - Day 05]
+tags: [logic-and-problem-solving, term1]
+course: "[[Logic and Problem-Solving]]"
+---
 
-## Topic Flow Charts
+# Logic and Problem-Solving — Day 5: Flow Charts
 
-Flowcharts are a visual representation of an algorithm
-Made up of standardized symbols (a.k.a. “nodes”
+**Today's focus:** draw algorithms as flowcharts using standard symbols.
 
+## [[Flowcharts]]
+A visual representation of an algorithm, made up of standardized symbols (a.k.a. "nodes").
 
+**Prerequisites**
+- Perform the [[Structured Problem-Solving Process]]
+- Define the problem & identify the steps
+- draw.io is the tool to draw them
+
+**Rules**
+- Every arrow needs a single (unilateral) direction
+- A flowchart may loop back, but use a new arrow
 
 ## Flowchart Shapes
-Oval - Start / Finish
-Square - Process Symbol (entire action)
-Parallelogram - input or output
-Diamond - a decision to be made (yes/no)(t/f) - keep it binary
 
-Rectangle with lines on it - represents a secondary flow chart
-
-
-
-Every Arrow needs a unilateral direction
-May loop back but use a new arrow
-
-
-## Flowchart Pre-req's
-- Perform structured problem solving
-- Define the problem & Identify Steps
-- draw.io is a tool to draw
-
-
-### Terminal (start / end)
-Every flowchart must start
-and end with one of these
-
-
-Only one start symbol per
-flowchart
-
-Can have multiple end
-symbols per flowchart
-
-
-### INPUT / OUTPUT
-
-- Parallelogram
-- Any function where we
-receive input
-- Any function where we
-generate output
-
-
-### ACTION / PROCESS
-- Any sort of operation
-- Commonly (but not
-always) follows an input
-node
-
-### DECISION POINT
-
-- Represents conditions
-- Used for yes/no or true/false statements
-- Arrows attached to
-these typically have
-labels
-
-### CONNECTOR
-
-- Optional
-- Improves readability
-- Indicates a jump from one part of a flowchart to the next
-- On-page and Off-page connectors
-
-- Circle - on page connector
-- Pentagram - Off Page connector
-
-### ANNOTATION
-
-- Contains text that
-would be inside a
-symbol
-- Improves readability
-- Optional
-
-
-### PREPARATION SYMBOL
-
-
- - Shows a set-up step
-- Placed at the beginning of operations that require that setup
-- For example, creating variables
-
-
-
-
-
-
+| Shape | Symbol | Notes |
+|---|---|---|
+| Oval | Terminal (start / end) | Every flowchart must start and end with one. **Only one** start symbol; **multiple** end symbols allowed |
+| Parallelogram | Input / Output | Any function where we receive input or generate output |
+| Rectangle | Action / Process | Any sort of operation (the entire action). Commonly, but not always, follows an input node |
+| Diamond | Decision point | Represents conditions — yes/no or true/false, keep it binary. Arrows leaving it are typically labelled |
+| Rectangle with side lines | Secondary flowchart | Represents a separate flowchart |
+| Circle | On-page connector | Optional; improves readability. Jumps from one part of a flowchart to another |
+| Pentagon | Off-page connector | Same idea, across pages |
+| Annotation | Text note | Optional; contains text that would otherwise be inside a symbol; improves readability |
+| Preparation symbol | Set-up step | Placed at the start of operations that need setup, e.g. creating variables |
 
 ## Homework
+- Practice flow charts in the exercises (found in Day 5 assessments)
 
-- Practice flow charts in exercises
-- Found in day 5 assessments
-- 
+## To Know
+- One Start symbol, multiple End symbols allowed
+- Decision diamonds stay binary (yes/no)
 
-## Key Terms
-
-Draw.io
-
-
+## Reflection
+*What was the most surprising insight today?*
