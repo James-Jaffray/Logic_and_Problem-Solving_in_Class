@@ -1,8 +1,9 @@
 START
 
 OUTPUT "Do you want crunchy or smooth peanut butter?
+DECLARE peanutButterType
+DECLARE peanutButterChoice
 INPUT peanutButterChoice
-SET peanutButterType = "none"
 
 if peanutButterChoice == "crunchy" THEN
     SET peanutButterType = "crunchy"
@@ -24,7 +25,8 @@ ___________________________________________
 
 START
 DECLARE seeBird
-SET hasPhotograph = 0
+DECLARE hasPhotograph = False
+
 
 
 IF you see the bird THEN
@@ -33,13 +35,13 @@ ELSE
     SET seeBird = False
 ENDIF
 
-WHILE seeBird == True && hasPhotograph == 0
+WHILE seeBird == True && hasPhotograph == False
     DO
         Take photograph of bird
         View the Photograph
         IF you want to keep the image
             save the image
-            SET hasPhotograph = 1
+            SET hasPhotograph = True
         ELSE
             Delete image
         ENDIF
@@ -55,7 +57,7 @@ ____________________________________________
 START
 
 INPUT instrumentOfChoice
-SET daysPracticed = 0
+DECLARE daysPracticed = 0
 
 WHILE daysPracticed <= 7
     practice 1 hour for the day
