@@ -1,12 +1,13 @@
 ---
 aliases: [Logic and Problem-Solving - Day 09]
-tags: [logic-and-problem-solving, term1, pseudocode]
+tags: [logic-and-problem-solving, term1, lecture-notes, pseudocode]
 course: "[[Logic and Problem-Solving]]"
+day: 9
 ---
 
 # Logic and Problem-Solving — Day 9: Introduction to Pseudocode
 
-**Today's focus:** write solutions in [[Pseudocode]] — the five constructs, variables, input, and comments. Syntax rules are in [[Logic and Problem-Solving - Day 09 Pseudocode Conventions]].
+**Today's focus:** write solutions in [[Pseudocode]] — the five constructs, variables, input, and comments. Syntax rules are in [[Pseudocode Conventions]].
 
 ## What Is Pseudocode?
 A way of writing a solution that **mimics real code but isn't tied to any language** — halfway between a programming language and human language. Its job is to communicate algorithmic logic in a structured way, as a step-by-step guide a developer can turn into real code.

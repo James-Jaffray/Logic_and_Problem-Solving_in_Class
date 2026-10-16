@@ -1,7 +1,8 @@
 ---
 aliases: [Logic and Problem-Solving - Day 06]
-tags: [logic-and-problem-solving, term1, flowcharts]
+tags: [logic-and-problem-solving, term1, lecture-notes, flowcharts]
 course: "[[Logic and Problem-Solving]]"
+day: 6
 ---
 
 # Logic and Problem-Solving — Day 6: Converting Problem Statements to Flowcharts

@@ -1,7 +1,8 @@
 ---
 aliases: [Logic and Problem-Solving - Day 11]
-tags: [logic-and-problem-solving, term1, pseudocode, debugging]
+tags: [logic-and-problem-solving, term1, lecture-notes, debugging, pseudocode]
 course: "[[Logic and Problem-Solving]]"
+day: 11
 ---
 
 # Logic and Problem-Solving — Day 11: Common Logical Errors and Debugging Techniques

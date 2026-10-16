@@ -1,7 +1,8 @@
 ---
 aliases: [Logic and Problem-Solving - Day 04]
-tags: [logic-and-problem-solving, term1]
+tags: [logic-and-problem-solving, term1, lecture-notes, decomposition]
 course: "[[Logic and Problem-Solving]]"
+day: 4
 ---
 
 # Logic and Problem-Solving — Day 4: Problem Decomposition

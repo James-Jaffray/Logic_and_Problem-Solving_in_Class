@@ -1,10 +1,10 @@
 ---
-aliases: [Logic and Problem-Solving - Day 20]
-tags: [logic-and-problem-solving, term1]
+tags: [logic-and-problem-solving, term1, placeholder]
 course: "[[Logic and Problem-Solving]]"
+day: 16
 ---
 
-# Logic and Problem-Solving — Day 20: 
+# Logic and Problem-Solving — Day 16: 
 
 **Today's focus:** 
 

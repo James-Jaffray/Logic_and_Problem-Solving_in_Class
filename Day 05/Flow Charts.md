@@ -1,7 +1,8 @@
 ---
 aliases: [Logic and Problem-Solving - Day 05]
-tags: [logic-and-problem-solving, term1]
+tags: [logic-and-problem-solving, term1, lecture-notes, flowcharts]
 course: "[[Logic and Problem-Solving]]"
+day: 5
 ---
 
 # Logic and Problem-Solving — Day 5: Flow Charts

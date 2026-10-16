@@ -1,12 +1,13 @@
 ---
 aliases: [Logic and Problem-Solving - Day 09 Pseudocode Conventions]
-tags: [logic-and-problem-solving, term1, pseudocode, cheat-sheet]
+tags: [logic-and-problem-solving, term1, reference, pseudocode, cheat-sheet]
 course: "[[Logic and Problem-Solving]]"
+day: 9
 ---
 
 # Pseudocode Conventions (SDEV1000)
 
-Standards to follow in every assessment. Concepts: [[Logic and Problem-Solving - Day 09]] · [[Pseudocode]]
+Standards to follow in every assessment. Concepts: [[Introduction to Pseudocode|Day 09]] · [[Pseudocode]]
 
 ## General
 - **Keywords are UPPERCASE** (`DECLARE`, `INPUT`, `SET`)

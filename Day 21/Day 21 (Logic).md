@@ -1,10 +1,10 @@
 ---
-aliases: [Logic and Problem-Solving - Day 14]
-tags: [logic-and-problem-solving, term1]
+tags: [logic-and-problem-solving, term1, placeholder]
 course: "[[Logic and Problem-Solving]]"
+day: 21
 ---
 
-# Logic and Problem-Solving — Day 14: 
+# Logic and Problem-Solving — Day 21: 
 
 **Today's focus:** 
 

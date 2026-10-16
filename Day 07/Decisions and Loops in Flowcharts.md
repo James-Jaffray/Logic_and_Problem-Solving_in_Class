@@ -1,7 +1,8 @@
 ---
 aliases: [Logic and Problem-Solving - Day 07]
-tags: [logic-and-problem-solving, term1, flowcharts]
+tags: [logic-and-problem-solving, term1, lecture-notes, flowcharts, decisions, loops]
 course: "[[Logic and Problem-Solving]]"
+day: 7
 ---
 
 # Logic and Problem-Solving — Day 7: Decision Structures and Loops in Flowcharts

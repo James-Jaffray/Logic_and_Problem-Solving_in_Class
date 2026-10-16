@@ -1,3 +1,9 @@
+---
+tags: [logic-and-problem-solving, term1, practice, pseudocode, flowcharts]
+course: "[[Logic and Problem-Solving]]"
+day: 10
+---
+
 START
 
 DECLARE orderedDonut

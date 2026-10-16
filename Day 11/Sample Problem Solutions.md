@@ -1,3 +1,9 @@
+---
+tags: [logic-and-problem-solving, term1, practice, debugging, pseudocode]
+course: "[[Logic and Problem-Solving]]"
+day: 11
+---
+
 ## Q1
 
 START

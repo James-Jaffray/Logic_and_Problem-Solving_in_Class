@@ -1,7 +1,8 @@
 ---
 aliases: [Logic and Problem-Solving - Day 03]
-tags: [logic-and-problem-solving, term1]
+tags: [logic-and-problem-solving, term1, lecture-notes, ipo, problem-statements]
 course: "[[Logic and Problem-Solving]]"
+day: 3
 ---
 
 # Logic and Problem-Solving — Day 3: The IPO Model & Problem Statements

@@ -1,3 +1,9 @@
+---
+tags: [logic-and-problem-solving, term1, practice, pseudocode]
+course: "[[Logic and Problem-Solving]]"
+day: 9
+---
+
 START
 
 OUTPUT "Do you want crunchy or smooth peanut butter?

@@ -1,7 +1,8 @@
 ---
 aliases: [Logic and Problem-Solving - Day 02]
-tags: [logic-and-problem-solving, term1]
+tags: [logic-and-problem-solving, term1, lecture-notes, algorithms]
 course: "[[Logic and Problem-Solving]]"
+day: 2
 ---
 
 # Logic and Problem-Solving — Day 2: Algorithmic Thinking

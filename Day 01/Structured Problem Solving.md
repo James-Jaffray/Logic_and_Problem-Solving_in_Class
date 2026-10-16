@@ -1,7 +1,8 @@
 ---
 aliases: [Logic and Problem-Solving - Day 01]
-tags: [logic-and-problem-solving, term1]
+tags: [logic-and-problem-solving, term1, lecture-notes, problem-solving]
 course: "[[Logic and Problem-Solving]]"
+day: 1
 ---
 
 # Logic and Problem-Solving — Day 1: Structured Problem Solving

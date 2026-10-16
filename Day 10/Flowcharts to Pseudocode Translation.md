@@ -1,7 +1,8 @@
 ---
 aliases: [Logic and Problem-Solving - Day 10]
-tags: [logic-and-problem-solving, term1, pseudocode]
+tags: [logic-and-problem-solving, term1, lecture-notes, pseudocode, flowcharts]
 course: "[[Logic and Problem-Solving]]"
+day: 10
 ---
 
 # Logic and Problem-Solving — Day 10: Translating Flowcharts to Pseudocode
@@ -28,7 +29,7 @@ course: "[[Logic and Problem-Solving]]"
 - Use `==` to compare and `SET` to assign; `AND` instead of `&&`
 - `ELSEIF` needs a condition and `THEN`; plain `ELSE` has neither
 - Every program ends with `END` (not a second `START`)
-- Full rules: [[Logic and Problem-Solving - Day 09 Pseudocode Conventions]] · [[Logic and Problem-Solving - Day 09 Pseudocode Cheat Sheet]] · [[Logic and Problem-Solving - Master Reference]]
+- Full rules: [[Pseudocode Conventions]] · [[Pseudocode Cheat Sheet]] · [[Logic and Problem-Solving - Master Reference]]
 
 ## To Know
 - Translate symbol-by-symbol, then re-read each loop arrow to pick `WHILE` vs `DO … UNTIL`
