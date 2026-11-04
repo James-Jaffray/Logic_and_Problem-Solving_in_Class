@@ -29,7 +29,7 @@ day: 10
 - Use `==` to compare and `SET` to assign; `AND` instead of `&&`
 - `ELSEIF` needs a condition and `THEN`; plain `ELSE` has neither
 - Every program ends with `END` (not a second `START`)
-- Full rules: [[Pseudocode Conventions]] · [[Pseudocode Cheat Sheet]] · [[Logic and Problem-Solving - Master Reference]]
+- Full rules: [[Pseudocode Conventions]] · [[Pseudocode Reference Sheet]] · [[Logic and Problem-Solving - Master Reference]]
 
 ## To Know
 - Translate symbol-by-symbol, then re-read each loop arrow to pick `WHILE` vs `DO … UNTIL`

@@ -1,6 +1,6 @@
 ---
 aliases: [Logic and Problem-Solving - Day 09 Pseudocode Conventions]
-tags: [logic-and-problem-solving, term1, reference, pseudocode, cheat-sheet]
+tags: [logic-and-problem-solving, term1, reference, pseudocode, reference-sheet]
 course: "[[Logic and Problem-Solving]]"
 day: 9
 ---

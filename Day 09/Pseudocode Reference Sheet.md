@@ -1,11 +1,11 @@
 ---
-aliases: [Logic and Problem-Solving - Day 09 Pseudocode Cheat Sheet]
-tags: [logic-and-problem-solving, term1, cheat-sheet, pseudocode]
+aliases: [Logic and Problem-Solving - Day 09 Pseudocode Reference Sheet]
+tags: [logic-and-problem-solving, term1, reference-sheet, pseudocode]
 course: "[[Logic and Problem-Solving]]"
 day: 9
 ---
 
-# Pseudocode Cheat Sheet
+# Pseudocode Reference Sheet
 
 Full rules: [[Pseudocode Conventions]] · Concepts: [[Introduction to Pseudocode|Day 09]]
 
